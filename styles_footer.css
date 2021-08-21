@@ -1,0 +1,47 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+
+.box__all{
+    background-color: lightcyan;
+    height: 200vh;
+    padding: 10px;
+}
+
+
+footer{
+  background-color: aliceblue;
+}
+
+.container__footer{
+    display: flex;
+}
+
+.box__footer{
+    display: flex;
+    flex-direction: column;
+    margin-left: 70px;
+    margin-right: 50px;
+}
+
+.box__footer h2{
+    font-family: 'Josefin Slab', curisve;
+    font-size: 20px;
+    font-weight: 800;
+    color: black;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.box__footer a{
+    font-family: 'Patrick hand', serif;
+    font-size: 17px;
+    margin-bottom: 10px;
+    font-weight: 100;
+    color: gray;
+    text-decoration: none;   
+}
+
+
+
